@@ -9,7 +9,7 @@
 <h2>🛰 Cybersecurity Portfolio Projects:</h2>
 
 - <b>Vulnerability Management with Nessus</b>
-  - [VMWare & Nessus](https://github.com/joshmadakor1/)
+  - [VMWare & Nessus](https://github.com/candersen1/)
 
 <h2>📝 Latest Blog Posts</h2>
 
